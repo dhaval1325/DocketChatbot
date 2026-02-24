@@ -1,0 +1,5 @@
+{
+  "name": "POD Verification Chatbot",
+  "description": "AI-powered chatbot to verify and update Proof of Delivery (POD) against dockets.",
+  "requestFramePermissions": []
+}
